@@ -1,4 +1,5 @@
-fastapi[all]
+#fastapi[all]
+streamlit
 pandas
 joblib
 scikit-learn
